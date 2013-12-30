@@ -1,0 +1,4 @@
+Main-Class: dhaval.Main
+Developer: Dhaval Kapil
+SplashScreen-Image: splash.png
+
