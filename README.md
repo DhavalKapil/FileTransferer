@@ -15,5 +15,7 @@ Both these restrictions do not operate in this program. Any file can be sent and
 MIT license http://www.opensource.org/licenses/mit-license.php
 
 <h3>Working:</h3>
+First compile the .java files and create the jar file:<br><br>
+jar -cvmf MANIFEST.MF FileTransferer.jar dhaval LICENSE README.md splash.png<br><br>
 Simply run the jar file. One user chooses to host and the other one join.
 Note: temp directories are created relative to the jar file.
